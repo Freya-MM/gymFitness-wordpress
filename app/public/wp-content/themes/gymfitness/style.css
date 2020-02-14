@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*
+    Theme Name: GymFitnessFlexCSSGrid
+    Theme URI:
+    Author: Freya
+    Author URI:
+    Description: Tema diseñado para el gimnasio GymFitness
+    Version: 1.0
+    License: GNU General Public License v2 or later
+    License URI: 
+    Tags: Gym, gimnasio, flexbox, css grid, mobile first
+    Text Domain: gymfitness
+ */
+body {
+  background-color: red;
+}
+/*# sourceMappingURL=style.css.map */
